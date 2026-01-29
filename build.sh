@@ -269,6 +269,7 @@ process_font_file() {
     # Add to README
     cat >> "$README_FILE" << EOF
 ## $FONT_FULL_NAME
+
 - **File**: \`$font_name\`
 - **Family**: $FONT_FAMILY_NAME
 - **Subfamily**: $FONT_SUBFAMILY
@@ -395,7 +396,8 @@ main() {
 This package contains self-hosted font files with their associated metadata, licensing information, and CSS declarations.
 
 ## Generated on: $(date)
-## Script version: $SCRIPT_VERSION
+
+> Script version: $SCRIPT_VERSION
 
 EOF
     
