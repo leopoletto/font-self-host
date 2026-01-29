@@ -1,0 +1,52 @@
+[2026-01-28 22:34:13] [INFO] Starting Font Self-Hosting Preparation Script v2.0.0
+[2026-01-28 22:34:13] [INFO] Found       14 font file(s) in './fonts'
+[2026-01-28 22:34:13] [INFO] Processing font: JetBrainsMono-Bold.ttf
+[2026-01-28 22:34:14] [INFO] Generated WOFF2: JetBrainsMono-Bold.woff2
+[2026-01-28 22:34:14] [INFO] Copied original font: JetBrainsMono-Bold.ttf
+[2026-01-28 22:34:14] [INFO] Processing font: JetBrainsMono-BoldItalic.ttf
+[2026-01-28 22:34:15] [INFO] Generated WOFF2: JetBrainsMono-BoldItalic.woff2
+[2026-01-28 22:34:15] [INFO] Copied original font: JetBrainsMono-BoldItalic.ttf
+[2026-01-28 22:34:15] [INFO] Processing font: JetBrainsMono-ExtraBold.ttf
+[2026-01-28 22:34:16] [INFO] Generated WOFF2: JetBrainsMono-ExtraBold.woff2
+[2026-01-28 22:34:16] [INFO] Copied original font: JetBrainsMono-ExtraBold.ttf
+[2026-01-28 22:34:16] [INFO] Processing font: JetBrainsMono-ExtraBoldItalic.ttf
+[2026-01-28 22:34:17] [INFO] Generated WOFF2: JetBrainsMono-ExtraBoldItalic.woff2
+[2026-01-28 22:34:17] [INFO] Copied original font: JetBrainsMono-ExtraBoldItalic.ttf
+[2026-01-28 22:34:17] [INFO] Processing font: JetBrainsMono-ExtraLight.ttf
+[2026-01-28 22:34:17] [INFO] Generated WOFF2: JetBrainsMono-ExtraLight.woff2
+[2026-01-28 22:34:17] [INFO] Copied original font: JetBrainsMono-ExtraLight.ttf
+[2026-01-28 22:34:17] [INFO] Processing font: JetBrainsMono-ExtraLightItalic.ttf
+[2026-01-28 22:34:18] [INFO] Generated WOFF2: JetBrainsMono-ExtraLightItalic.woff2
+[2026-01-28 22:34:18] [INFO] Copied original font: JetBrainsMono-ExtraLightItalic.ttf
+[2026-01-28 22:34:18] [INFO] Processing font: JetBrainsMono-Light.ttf
+[2026-01-28 22:34:19] [INFO] Generated WOFF2: JetBrainsMono-Light.woff2
+[2026-01-28 22:34:19] [INFO] Copied original font: JetBrainsMono-Light.ttf
+[2026-01-28 22:34:19] [INFO] Processing font: JetBrainsMono-LightItalic.ttf
+[2026-01-28 22:34:20] [INFO] Generated WOFF2: JetBrainsMono-LightItalic.woff2
+[2026-01-28 22:34:20] [INFO] Copied original font: JetBrainsMono-LightItalic.ttf
+[2026-01-28 22:34:20] [INFO] Processing font: JetBrainsMono-Medium.ttf
+[2026-01-28 22:34:21] [INFO] Generated WOFF2: JetBrainsMono-Medium.woff2
+[2026-01-28 22:34:21] [INFO] Copied original font: JetBrainsMono-Medium.ttf
+[2026-01-28 22:34:21] [INFO] Processing font: JetBrainsMono-MediumItalic.ttf
+[2026-01-28 22:34:22] [INFO] Generated WOFF2: JetBrainsMono-MediumItalic.woff2
+[2026-01-28 22:34:22] [INFO] Copied original font: JetBrainsMono-MediumItalic.ttf
+[2026-01-28 22:34:22] [INFO] Processing font: JetBrainsMono-SemiBold.ttf
+[2026-01-28 22:34:22] [INFO] Generated WOFF2: JetBrainsMono-SemiBold.woff2
+[2026-01-28 22:34:22] [INFO] Copied original font: JetBrainsMono-SemiBold.ttf
+[2026-01-28 22:34:22] [INFO] Processing font: JetBrainsMono-SemiBoldItalic.ttf
+[2026-01-28 22:34:23] [INFO] Generated WOFF2: JetBrainsMono-SemiBoldItalic.woff2
+[2026-01-28 22:34:23] [INFO] Copied original font: JetBrainsMono-SemiBoldItalic.ttf
+[2026-01-28 22:34:23] [INFO] Processing font: JetBrainsMono-Thin.ttf
+[2026-01-28 22:34:24] [INFO] Generated WOFF2: JetBrainsMono-Thin.woff2
+[2026-01-28 22:34:24] [INFO] Copied original font: JetBrainsMono-Thin.ttf
+[2026-01-28 22:34:24] [INFO] Processing font: JetBrainsMono-ThinItalic.ttf
+[2026-01-28 22:34:25] [INFO] Generated WOFF2: JetBrainsMono-ThinItalic.woff2
+[2026-01-28 22:34:25] [INFO] Copied original font: JetBrainsMono-ThinItalic.ttf
+[2026-01-28 22:34:25] [INFO] Processing complete!
+[2026-01-28 22:34:25] [INFO] Successfully processed: 14 font(s)
+[2026-01-28 22:34:25] [INFO] Output saved in: ./dist
+[2026-01-28 22:34:25] [INFO] Files generated:
+[2026-01-28 22:34:25] [INFO]   - ./dist/README.md
+[2026-01-28 22:34:25] [INFO]   - ./dist/font-face.css
+[2026-01-28 22:34:25] [INFO]   - WOFF2 font files
+[2026-01-28 22:34:25] [INFO]   - Original font files

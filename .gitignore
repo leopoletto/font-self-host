@@ -1,22 +1,3 @@
-# Ignore everything except specific files
-*
-
-# Allow these files to be tracked
-!build.sh
-!README.md
-!LICENSE.md
-!.gitignore
-!test_simple.sh
-!output/
-!fonts
-!.logs
-
-# Ignore specific files/folders
-build.sh.backup
-robotoSlab-700.ttf
-helpers/
-output-sample/
-
 # Common ignore patterns
 .DS_Store
 *.tmp
