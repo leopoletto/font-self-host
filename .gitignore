@@ -7,17 +7,17 @@
 !LICENSE.md
 !.gitignore
 !test_simple.sh
+!output/
+!fonts
+!.logs
 
 # Ignore specific files/folders
 build.sh.backup
 robotoSlab-700.ttf
-output/
-fonts/
 helpers/
 output-sample/
 
 # Common ignore patterns
 .DS_Store
-*.log
 *.tmp
 *.temp
